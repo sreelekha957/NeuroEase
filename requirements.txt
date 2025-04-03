@@ -8,3 +8,4 @@ pyttsx3==2.98
 SpeechRecognition==3.14.1
 tensorflow==2.18.0
 transformers==4.48.3
+gunicorn
